@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldLibrary", "HelloWorldLibrary\HelloWorldLibrary.csproj", "{F72392B5-9001-4B65-8A38-6CCB61013E8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldWeb", "HelloWorldWeb\HelloWorldWeb.csproj", "{58B622DA-25E9-420F-9F42-07554A38520F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{F72392B5-9001-4B65-8A38-6CCB61013E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F72392B5-9001-4B65-8A38-6CCB61013E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F72392B5-9001-4B65-8A38-6CCB61013E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B622DA-25E9-420F-9F42-07554A38520F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B622DA-25E9-420F-9F42-07554A38520F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B622DA-25E9-420F-9F42-07554A38520F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B622DA-25E9-420F-9F42-07554A38520F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
