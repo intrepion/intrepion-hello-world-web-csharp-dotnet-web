@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldLibrary", "HelloW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldWeb", "HelloWorldWeb\HelloWorldWeb.csproj", "{58B622DA-25E9-420F-9F42-07554A38520F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldTests", "HelloWorldTests\HelloWorldTests.csproj", "{2F9763C2-47F4-4401-BAE3-9CA566F7E5CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{58B622DA-25E9-420F-9F42-07554A38520F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58B622DA-25E9-420F-9F42-07554A38520F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58B622DA-25E9-420F-9F42-07554A38520F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9763C2-47F4-4401-BAE3-9CA566F7E5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9763C2-47F4-4401-BAE3-9CA566F7E5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9763C2-47F4-4401-BAE3-9CA566F7E5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9763C2-47F4-4401-BAE3-9CA566F7E5CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
