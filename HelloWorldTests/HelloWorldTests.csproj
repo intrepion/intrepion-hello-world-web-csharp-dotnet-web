@@ -24,6 +24,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HelloWorldLibrary\HelloWorldLibrary.csproj" />
+    <ProjectReference Include="..\HelloWorldWeb\HelloWorldWeb.csproj" />
   </ItemGroup>
 
 </Project>
